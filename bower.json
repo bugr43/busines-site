@@ -1,0 +1,17 @@
+{
+  "name": "busines-site",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bugr43/busines-site",
+  "authors": [
+    "Николай Острижний"
+  ],
+  "description": "Верстка сайта бизнес тематики",
+  "main": "index.html",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  },
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
